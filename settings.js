@@ -18,7 +18,7 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "Napoleon-Mdོ" //namabot kalian
+global.botname = "Napoleon-Botz" //namabot kalian
 global.ownername= "SkymoonxXx" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
@@ -31,7 +31,7 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6283862006229","6283862006229","6283862006229"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Napoleon-Mdོ' //sticker wm ubah
+global.packname = '© Napoleon-Botz' //sticker wm ubah
 global.author = 'Di Buat Oleh Napoleon' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
