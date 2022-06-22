@@ -18,12 +18,12 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "Shiro-Botz" //namabot kalian
-global.ownername= "Shiro" //nama kalian
+global.botname = "Xavier-Botz" //namabot kalian
+global.ownername= "Xavier" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "Shirobotz@gmail.com" //bebas
+global.email = "Xavier botz@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6283862006229" // nomor wa kalian
 global.ownernomerr = "+6283862006229" //nmr wa kalian
@@ -31,8 +31,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6283862006229","6283862006229","6283862006229"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Shiro-Botz' //sticker wm ubah
-global.author = 'Di Buat Oleh Shiro' //sticker wm ganti nama kalian
+global.packname = '© Xavier' //sticker wm ubah
+global.author = 'Di Buat Oleh Xavier' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
